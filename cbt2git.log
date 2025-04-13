@@ -1,0 +1,11 @@
+2025-04-13 20:10:11.011734 - Received CBT.V508.FILE493.PDS from FILE493.XMI 
+2025-04-13 20:10:11.012947 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE493.PDS, moved to PDS/$$$#DATE
+2025-04-13 20:10:11.013043 - Found $INDEX.txt (text/plain) in CBT.V508.FILE493.PDS, moved to PDS/$INDEX
+2025-04-13 20:10:11.013123 - Found #ERICD.txt (text/plain) in CBT.V508.FILE493.PDS, moved to PDS/#ERICD
+2025-04-13 20:10:11.013201 - Found @FILE493.txt (text/plain) in CBT.V508.FILE493.PDS, moved to PDS/@FILE493
+2025-04-13 20:10:11.013359 - Found CRCPAPER.txt (text/plain) in CBT.V508.FILE493.PDS, moved to PDS/CRCPAPER
+2025-04-13 20:10:11.013473 - Found CRC32.txt (text/plain) in CBT.V508.FILE493.PDS, moved to PDS/CRC32
+2025-04-13 20:10:11.013558 - Found CRC32REF.txt (text/plain) in CBT.V508.FILE493.PDS, moved to PDS/CRC32REF
+2025-04-13 20:10:11.013635 - Found CRC32STD.txt (text/plain) in CBT.V508.FILE493.PDS, moved to PDS/CRC32STD
+2025-04-13 20:10:11.013716 - Found C2F.rexx (text/plain) in CBT.V508.FILE493.PDS, moved to PDS/C2F
+2025-04-13 20:10:11.013809 - Found VC.rexx (text/plain) in CBT.V508.FILE493.PDS, moved to PDS/VC
